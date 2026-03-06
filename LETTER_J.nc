@@ -1,6 +1,6 @@
 %
-O[Unique Number] 
-([NAME OF DESIGN]) 
+O[181208] 
+([letter J]) 
 (This template is for any Haas CNC machine.  EOL characters are not required.  If using another machine check controller documentation.
 
 (Startup Process)
